@@ -1,0 +1,50 @@
+{
+  "unchanged_files": {
+    "action_parser.py": {
+      "sha256": "8127a02d0bacd9e68726f7f6642c4ff2758f555a1cdbbc05e2b2d2cea07783d3"
+    },
+    "backend.py": {
+      "sha256": "530be46eacb7ad851f158b29ca26c0f3712df9fbbc77c83eb5bb60d71c42cf47"
+    },
+    "environment.py": {
+      "sha256": "668c5d948d6315b99a594824b1a3a0d841be2a5519881e967d841d7b3d24e62f"
+    },
+    "tasks.py": {
+      "sha256": "bcf6f8e0ac38f9a5ab25de99c17d8f1d5d7d881aa8eb699f61fb40b3dfc86b33"
+    },
+    "v2_prompts.py": {
+      "sha256": "f54a5436a092e9250b20f510e125d157dcfb13351afbc95dd2d37026c26136cd"
+    },
+    "providers.py": {
+      "sha256": "d762db569e316eaae4b904d4b19439eb47fe50002a5d7e36114e927f845c89d2"
+    },
+    "opencode.json": {
+      "sha256": "20a2a496dd00cdbb26a076f7bd3361610e63d0d8dc3d8b6c13e3505cb990a37c"
+    },
+    "config/target.json": {
+      "sha256": "0a437701800d0463318b5171cb6586d1ad7501c38e80923af4f2f7aa74fea52b"
+    },
+    "session/seed_builder.py": {
+      "sha256": "8c888576ae6557666f4c1af733d8ed031a3d3c2ec33aa5702a600a5b60776bf0"
+    },
+    "session/opencode_session.py": {
+      "sha256": "1f65255d5b8fe802dad8ad587dafc9f79cb79647f9e455a164a8c15935214360"
+    }
+  },
+  "analysis_sha256_before_version_change": "38e514d4eb26d192f8b12a3ad4ff847f6eff9e10c0405f4ae9a4bf767c4c72ef",
+  "unchanged_routing_methods": {
+    "__init__": "831ce72f8fcc888e29f90e5e4bdfa7c82352836dc74fe5276cf7b3d8a83d34ec",
+    "launch_environment": "00e744dce06f4132c2e9953b2ab08d52ade7a4449757901bf01a7ae8cd4c09af",
+    "command": "4ef4b3e0ad958d83aa724968ab7312da86f9616164ae864ab065b44b461f268b",
+    "__enter__": "c7a736576da5ce88b3a4a879b9dcabe6da03d40db722d8ba6aa634c39ec648e5",
+    "__exit__": "f9dabf35e1b43f0d95d2af0584a435d4a02088af88a59bd6a1c22a0edc99e415",
+    "api": "fa61852f0a375243214946a5ae3dbca86ed3cd6fb6f652589b22249368f9ae07",
+    "export": "530e96daea89e0836e5c038f4dde5bc1d582e8d66d84f29f91ae6d57685ca549",
+    "exists": "cd54c4ac6b2f1fc9bbefeb27dac1f5a3309b490be08b63c8648b1272f21d67b6",
+    "fork_seed": "abac626cb48f641dce2b8df453e3a706ccdca4d86e5526da2a8f7eab8d9fa5e1",
+    "generate": "dc241ef5a1c8d992d32a0c5440c6705c97d2361efdfe185a4b6da9b093cb21cb"
+  },
+  "private_protocol_sha256": "b990a70b697f32a9713f049946f13e24cb9fb2e95a5ac4943c48d1f138751f44",
+  "base_prompt_sha256": "9d6aa4c6c194c6baba8c24859ad769d08d130a0bf542ff189ee8965499b3215d",
+  "shortcut_disclosure_sha256": "d4076f9e45c8dad6c0595e3edb0e98b577fb45a93539d1332e5eaf9e7ba49f85"
+}

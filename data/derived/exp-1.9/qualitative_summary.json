@@ -1,0 +1,516 @@
+{
+  "description": "new reproducible recoding",
+  "codebook_version": "exp19_recode_v1",
+  "sample_size": 40,
+  "condition_counts": {
+    "slp": 10,
+    "shp": 10,
+    "ulp": 10,
+    "uhp": 10
+  },
+  "na_handling": "NA is excluded from feature denominators; only solvable memory_post_block is NA.",
+  "new_aggregate_counts": {
+    "broad_explicit_memory_reference": {
+      "overall": {
+        "positive": 35,
+        "denominator": 40,
+        "na": 0
+      },
+      "by_condition": {
+        "slp": {
+          "positive": 7,
+          "denominator": 10,
+          "na": 0
+        },
+        "shp": {
+          "positive": 9,
+          "denominator": 10,
+          "na": 0
+        },
+        "ulp": {
+          "positive": 9,
+          "denominator": 10,
+          "na": 0
+        },
+        "uhp": {
+          "positive": 10,
+          "denominator": 10,
+          "na": 0
+        }
+      },
+      "by_blockage": {
+        "unblocked": {
+          "positive": 16,
+          "denominator": 20,
+          "na": 0
+        },
+        "blocked": {
+          "positive": 19,
+          "denominator": 20,
+          "na": 0
+        }
+      }
+    },
+    "narrow_prior_memory_reference": {
+      "overall": {
+        "positive": 34,
+        "denominator": 40,
+        "na": 0
+      },
+      "by_condition": {
+        "slp": {
+          "positive": 6,
+          "denominator": 10,
+          "na": 0
+        },
+        "shp": {
+          "positive": 9,
+          "denominator": 10,
+          "na": 0
+        },
+        "ulp": {
+          "positive": 9,
+          "denominator": 10,
+          "na": 0
+        },
+        "uhp": {
+          "positive": 10,
+          "denominator": 10,
+          "na": 0
+        }
+      },
+      "by_blockage": {
+        "unblocked": {
+          "positive": 15,
+          "denominator": 20,
+          "na": 0
+        },
+        "blocked": {
+          "positive": 19,
+          "denominator": 20,
+          "na": 0
+        }
+      }
+    },
+    "first_write_memory_different_task": {
+      "overall": {
+        "positive": 16,
+        "denominator": 40,
+        "na": 0
+      },
+      "by_condition": {
+        "slp": {
+          "positive": 2,
+          "denominator": 10,
+          "na": 0
+        },
+        "shp": {
+          "positive": 5,
+          "denominator": 10,
+          "na": 0
+        },
+        "ulp": {
+          "positive": 6,
+          "denominator": 10,
+          "na": 0
+        },
+        "uhp": {
+          "positive": 3,
+          "denominator": 10,
+          "na": 0
+        }
+      },
+      "by_blockage": {
+        "unblocked": {
+          "positive": 7,
+          "denominator": 20,
+          "na": 0
+        },
+        "blocked": {
+          "positive": 9,
+          "denominator": 20,
+          "na": 0
+        }
+      }
+    },
+    "first_write_shortcut_related": {
+      "overall": {
+        "positive": 33,
+        "denominator": 40,
+        "na": 0
+      },
+      "by_condition": {
+        "slp": {
+          "positive": 7,
+          "denominator": 10,
+          "na": 0
+        },
+        "shp": {
+          "positive": 7,
+          "denominator": 10,
+          "na": 0
+        },
+        "ulp": {
+          "positive": 9,
+          "denominator": 10,
+          "na": 0
+        },
+        "uhp": {
+          "positive": 10,
+          "denominator": 10,
+          "na": 0
+        }
+      },
+      "by_blockage": {
+        "unblocked": {
+          "positive": 14,
+          "denominator": 20,
+          "na": 0
+        },
+        "blocked": {
+          "positive": 19,
+          "denominator": 20,
+          "na": 0
+        }
+      }
+    },
+    "memory_pre_block": {
+      "overall": {
+        "positive": 16,
+        "denominator": 40,
+        "na": 0
+      },
+      "by_condition": {
+        "slp": {
+          "positive": 2,
+          "denominator": 10,
+          "na": 0
+        },
+        "shp": {
+          "positive": 5,
+          "denominator": 10,
+          "na": 0
+        },
+        "ulp": {
+          "positive": 6,
+          "denominator": 10,
+          "na": 0
+        },
+        "uhp": {
+          "positive": 3,
+          "denominator": 10,
+          "na": 0
+        }
+      },
+      "by_blockage": {
+        "unblocked": {
+          "positive": 7,
+          "denominator": 20,
+          "na": 0
+        },
+        "blocked": {
+          "positive": 9,
+          "denominator": 20,
+          "na": 0
+        }
+      }
+    },
+    "memory_post_block": {
+      "overall": {
+        "positive": 13,
+        "denominator": 20,
+        "na": 20
+      },
+      "by_condition": {
+        "slp": {
+          "positive": 0,
+          "denominator": 0,
+          "na": 10
+        },
+        "shp": {
+          "positive": 0,
+          "denominator": 0,
+          "na": 10
+        },
+        "ulp": {
+          "positive": 6,
+          "denominator": 10,
+          "na": 0
+        },
+        "uhp": {
+          "positive": 7,
+          "denominator": 10,
+          "na": 0
+        }
+      },
+      "by_blockage": {
+        "unblocked": {
+          "positive": 0,
+          "denominator": 0,
+          "na": 20
+        },
+        "blocked": {
+          "positive": 13,
+          "denominator": 20,
+          "na": 0
+        }
+      }
+    }
+  },
+  "constraint_validation": {
+    "passed": true,
+    "violations": []
+  },
+  "historical_comparison_reference_only": {
+    "broad_explicit_memory_reference": [
+      {
+        "scope": "overall",
+        "historical_value": {
+          "positive": 35,
+          "denominator": 40
+        },
+        "new_recoding_value": {
+          "positive": 35,
+          "denominator": 40,
+          "na": 0
+        },
+        "difference_new_minus_historical": 0,
+        "note": null
+      },
+      {
+        "scope": "slp",
+        "historical_value": {
+          "positive": 7,
+          "denominator": 10
+        },
+        "new_recoding_value": {
+          "positive": 7,
+          "denominator": 10,
+          "na": 0
+        },
+        "difference_new_minus_historical": 0,
+        "note": null
+      },
+      {
+        "scope": "shp",
+        "historical_value": {
+          "positive": 9,
+          "denominator": 10
+        },
+        "new_recoding_value": {
+          "positive": 9,
+          "denominator": 10,
+          "na": 0
+        },
+        "difference_new_minus_historical": 0,
+        "note": null
+      },
+      {
+        "scope": "ulp",
+        "historical_value": {
+          "positive": 9,
+          "denominator": 10
+        },
+        "new_recoding_value": {
+          "positive": 9,
+          "denominator": 10,
+          "na": 0
+        },
+        "difference_new_minus_historical": 0,
+        "note": null
+      },
+      {
+        "scope": "uhp",
+        "historical_value": {
+          "positive": 10,
+          "denominator": 10
+        },
+        "new_recoding_value": {
+          "positive": 10,
+          "denominator": 10,
+          "na": 0
+        },
+        "difference_new_minus_historical": 0,
+        "note": null
+      },
+      {
+        "scope": "blocked",
+        "historical_value": {
+          "positive": 19,
+          "denominator": 20
+        },
+        "new_recoding_value": {
+          "positive": 19,
+          "denominator": 20,
+          "na": 0
+        },
+        "difference_new_minus_historical": 0,
+        "note": null
+      }
+    ],
+    "narrow_prior_memory_reference": [
+      {
+        "scope": "overall",
+        "historical_value": {
+          "positive": 30,
+          "denominator": 40
+        },
+        "new_recoding_value": {
+          "positive": 34,
+          "denominator": 40,
+          "na": 0
+        },
+        "difference_new_minus_historical": 4,
+        "note": null
+      }
+    ],
+    "first_write_memory_different_task": [
+      {
+        "scope": "overall",
+        "historical_value": {
+          "positive": 16,
+          "denominator": 40
+        },
+        "new_recoding_value": {
+          "positive": 16,
+          "denominator": 40,
+          "na": 0
+        },
+        "difference_new_minus_historical": 0,
+        "note": null
+      }
+    ],
+    "first_write_shortcut_related": [
+      {
+        "scope": "overall",
+        "historical_value": {
+          "positive": 33,
+          "denominator": 40
+        },
+        "new_recoding_value": {
+          "positive": 33,
+          "denominator": 40,
+          "na": 0
+        },
+        "difference_new_minus_historical": 0,
+        "note": null
+      }
+    ],
+    "memory_pre_block": [
+      {
+        "scope": "slp",
+        "historical_value": {
+          "positive": 2,
+          "denominator": 10
+        },
+        "new_recoding_value": {
+          "positive": 2,
+          "denominator": 10,
+          "na": 0
+        },
+        "difference_new_minus_historical": 0,
+        "note": null
+      },
+      {
+        "scope": "shp",
+        "historical_value": {
+          "positive": 4,
+          "denominator": 10
+        },
+        "new_recoding_value": {
+          "positive": 5,
+          "denominator": 10,
+          "na": 0
+        },
+        "difference_new_minus_historical": 1,
+        "note": null
+      },
+      {
+        "scope": "ulp",
+        "historical_value": {
+          "positive": 5,
+          "denominator": 10
+        },
+        "new_recoding_value": {
+          "positive": 6,
+          "denominator": 10,
+          "na": 0
+        },
+        "difference_new_minus_historical": 1,
+        "note": null
+      },
+      {
+        "scope": "uhp",
+        "historical_value": {
+          "positive": 3,
+          "denominator": 10
+        },
+        "new_recoding_value": {
+          "positive": 3,
+          "denominator": 10,
+          "na": 0
+        },
+        "difference_new_minus_historical": 0,
+        "note": null
+      }
+    ],
+    "memory_post_block": [
+      {
+        "scope": "slp",
+        "historical_value": {
+          "positive": 0,
+          "denominator": 10
+        },
+        "new_recoding_value": {
+          "positive": 0,
+          "denominator": 0,
+          "na": 10
+        },
+        "difference_new_minus_historical": null,
+        "note": "Different denominators; no direct difference"
+      },
+      {
+        "scope": "shp",
+        "historical_value": {
+          "positive": 0,
+          "denominator": 10
+        },
+        "new_recoding_value": {
+          "positive": 0,
+          "denominator": 0,
+          "na": 10
+        },
+        "difference_new_minus_historical": null,
+        "note": "Different denominators; no direct difference"
+      },
+      {
+        "scope": "ulp",
+        "historical_value": {
+          "positive": 5,
+          "denominator": 10
+        },
+        "new_recoding_value": {
+          "positive": 6,
+          "denominator": 10,
+          "na": 0
+        },
+        "difference_new_minus_historical": 1,
+        "note": null
+      },
+      {
+        "scope": "uhp",
+        "historical_value": {
+          "positive": 6,
+          "denominator": 10
+        },
+        "new_recoding_value": {
+          "positive": 7,
+          "denominator": 10,
+          "na": 0
+        },
+        "difference_new_minus_historical": 1,
+        "note": null
+      }
+    ]
+  }
+}

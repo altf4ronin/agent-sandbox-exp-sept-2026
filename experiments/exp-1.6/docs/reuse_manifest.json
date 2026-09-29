@@ -1,0 +1,14 @@
+{
+  "action_parser.py": "8127a02d0bacd9e68726f7f6642c4ff2758f555a1cdbbc05e2b2d2cea07783d3",
+  "backend.py": "530be46eacb7ad851f158b29ca26c0f3712df9fbbc77c83eb5bb60d71c42cf47",
+  "environment.py": "668c5d948d6315b99a594824b1a3a0d841be2a5519881e967d841d7b3d24e62f",
+  "tasks.py": "bcf6f8e0ac38f9a5ab25de99c17d8f1d5d7d881aa8eb699f61fb40b3dfc86b33",
+  "v2_prompts.py": "f54a5436a092e9250b20f510e125d157dcfb13351afbc95dd2d37026c26136cd",
+  "providers.py": "d762db569e316eaae4b904d4b19439eb47fe50002a5d7e36114e927f845c89d2",
+  "opencode.json": "20a2a496dd00cdbb26a076f7bd3361610e63d0d8dc3d8b6c13e3505cb990a37c",
+  "config/target.json": "0a437701800d0463318b5171cb6586d1ad7501c38e80923af4f2f7aa74fea52b",
+  "session/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "session/opencode_session.py": "1f65255d5b8fe802dad8ad587dafc9f79cb79647f9e455a164a8c15935214360",
+  "session/seed_builder.py": "8c888576ae6557666f4c1af733d8ed031a3d3c2ec33aa5702a600a5b60776bf0",
+  "observer/__init__.py": "197d8ed4294664f8b5dd68eb44c53cb44db38c549cadfa1033b76a677ed4d726"
+}

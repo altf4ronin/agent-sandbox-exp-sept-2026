@@ -1,0 +1,6 @@
+{
+  "permission": {"*": "deny"},
+  "share": "disabled",
+  "autoupdate": false,
+  "compaction": {"auto": false, "prune": false}
+}

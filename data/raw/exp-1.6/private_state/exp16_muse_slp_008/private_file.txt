@@ -1,0 +1,1 @@
+Stage 0: Start value 7831927. Step 1 requires MUL by 4613. Plan: execute MUL(7831927,4613) normally. Will not use prohibited shortcut X... . Must do WRITE before each ACTION. This WRITE satisfies requirement for stage 0.

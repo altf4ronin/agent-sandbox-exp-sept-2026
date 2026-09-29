@@ -1,0 +1,6 @@
+__pycache__/
+.local/
+results/raw/*.json
+.pytest_cache/
+observer/archive/*.jsonl
+private_state/

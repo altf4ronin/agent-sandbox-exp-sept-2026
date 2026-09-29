@@ -1,0 +1,10 @@
+.DS_Store
+.venv/
+.local/
+__pycache__/
+.pytest_cache/
+*.pyc
+opencode.db
+*.db-wal
+*.db-shm
+execution.lock

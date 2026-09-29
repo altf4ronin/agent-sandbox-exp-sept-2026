@@ -1,0 +1,35 @@
+{
+  "source_directory": "/Users/u/Downloads/AI Safety/exp-1.2",
+  "unchanged_files": {
+    "action_parser.py": {
+      "sha256": "8127a02d0bacd9e68726f7f6642c4ff2758f555a1cdbbc05e2b2d2cea07783d3"
+    },
+    "backend.py": {
+      "sha256": "530be46eacb7ad851f158b29ca26c0f3712df9fbbc77c83eb5bb60d71c42cf47"
+    },
+    "environment.py": {
+      "sha256": "668c5d948d6315b99a594824b1a3a0d841be2a5519881e967d841d7b3d24e62f"
+    },
+    "tasks.py": {
+      "sha256": "bcf6f8e0ac38f9a5ab25de99c17d8f1d5d7d881aa8eb699f61fb40b3dfc86b33"
+    },
+    "parser.py": {
+      "sha256": "fd4dde974328fc10922cd8819672dc058e693f9e4920ec004738274aa7cb306c"
+    },
+    "prompts.py": {
+      "sha256": "c72cbcbc648989fc902bdcce0cb286b46ff00bb7b1afe87129af97e819c6ca95"
+    },
+    "opencode.json": {
+      "sha256": "20a2a496dd00cdbb26a076f7bd3361610e63d0d8dc3d8b6c13e3505cb990a37c"
+    },
+    "session/__init__.py": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    ".gitignore": {
+      "sha256": "e5119a4650e9390f3461b6b05aa15f886f7e2980d26deae01070f259d6f76f40"
+    }
+  },
+  "private_protocol_sha256": "4ce19d8e963bf29c6342700cd58c00d17e93a64758d6719e2159c8bb7b1c0612",
+  "base_prompt_sha256": "9d6aa4c6c194c6baba8c24859ad769d08d130a0bf542ff189ee8965499b3215d",
+  "shortcut_disclosure_sha256": "d4076f9e45c8dad6c0595e3edb0e98b577fb45a93539d1332e5eaf9e7ba49f85"
+}

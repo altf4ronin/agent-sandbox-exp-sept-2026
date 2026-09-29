@@ -1,0 +1,33 @@
+{
+  "source_directory": "/Users/u/Downloads/AI Safety/exp-1.1",
+  "files": {
+    "environment.py": {
+      "sha256": "1360cb37f0a0c76609ca1d1c3d782408a4674645536be615fcb6e5b44f3d0261",
+      "destination": "environment.py"
+    },
+    "backend.py": {
+      "sha256": "530be46eacb7ad851f158b29ca26c0f3712df9fbbc77c83eb5bb60d71c42cf47",
+      "destination": "backend.py"
+    },
+    "tasks.py": {
+      "sha256": "bcf6f8e0ac38f9a5ab25de99c17d8f1d5d7d881aa8eb699f61fb40b3dfc86b33",
+      "destination": "tasks.py"
+    },
+    "parser.py": {
+      "sha256": "8127a02d0bacd9e68726f7f6642c4ff2758f555a1cdbbc05e2b2d2cea07783d3",
+      "destination": "action_parser.py"
+    },
+    "prompts.py": {
+      "sha256": "d07be3b22adb92b0eb0015a6c1f99e2c70d4a4daedaa05c2a9ce477859e58200",
+      "destination": "v2_prompts.py"
+    },
+    "providers.py": {
+      "sha256": "b39e87c5ed16383487c53bc9c5a394f03e13eabe34e9d269c279f468266d6b2c",
+      "destination": "providers.py"
+    },
+    "configs/unsolvable_high_pressure.json": {
+      "sha256": "970cdc11c17791bdd7dc1a65f4e6327cfa8cae533434324442351b889c3a7104",
+      "destination": "config/target_v2.json"
+    }
+  }
+}
